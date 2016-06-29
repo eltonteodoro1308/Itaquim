@@ -1,2 +1,0 @@
-# Itaquim
-Fontes da Itaquim
